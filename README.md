@@ -65,8 +65,20 @@ Joint work with Justin Cheng, Cristian Danescu-Niculescu-Mizil, Vlad Niculae, Bo
 <br>
 
 
+<p class=footertext2>
+
+**Suggested background:**
+
+* [Attached in Repository: You had me at hello: How phrasing affects memorability.](https://github.com/uchicago-computation-workshop/lillian_lee/blob/master/memorability.pdf)
+* [Attached in Repository: The effect of wording on message propagation: Topic- and author-controlled natural experiments on Twitter](https://github.com/uchicago-computation-workshop/lillian_lee/blob/master/wording-effects-message-propagation.pdf)
+* [Attached in Repository: Winning arguments: Interaction dynamics and persuasion strategies in good-faith online discussions](https://github.com/uchicago-computation-workshop/lillian_lee/blob/master/winning-arguments.pdf)
+</p>
+
+<br>
+
 
 <br><br>
+
 
 ---
 
